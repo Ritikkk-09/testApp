@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testApp</string>
+
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">
+        DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">
+        ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">OYo4YLsrd9FMGUXaVZ4zFmO_vbdAamn81ZX9_</string>
+</resources>
