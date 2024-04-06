@@ -25,6 +25,8 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import AppCenter from './appcenter';
 
+//appcenter codepush release-react -a RitikSaini/testApp -d Staging       here is the command for update
+
 function Section({ children, title }) {
   const isDarkMode = useColorScheme() === 'dark';
   return (
