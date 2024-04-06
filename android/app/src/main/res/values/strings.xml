@@ -5,5 +5,7 @@
         DO_NOT_ASK_JAVASCRIPT</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">
         ALWAYS_SEND</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">OYo4YLsrd9FMGUXaVZ4zFmO_vbdAamn81ZX9_</string>
+    <!-- <string moduleConfig="true"
+    name="CodePushDeploymentKey">OYo4YLsrd9FMGUXaVZ4zFmO_vbdAamn81ZX9_</string>  staging -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">xV4WP05s3VPoTJ1_im53N_d1kGWI13XDTMNaK</string>
 </resources>
